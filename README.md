@@ -92,5 +92,5 @@ Pull requests and suggestions are welcome! If you have ideas to improve the syst
 
 ## 📫 Contact
 
-Made with ❤️ by [Ziyad Azzaz]  
+Made with ❤️ by Ziyad Azzaz  
 GitHub: [https://github.com/Ziyad Azzaz](https://github.com/ZiyadAzzaz)
