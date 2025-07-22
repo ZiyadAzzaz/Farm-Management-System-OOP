@@ -20,11 +20,11 @@ A **Python-based Farm Management System** that uses **Object-Oriented Programmin
 
 | Class      | Description                                            |
 |------------|--------------------------------------------------------|
-| \Farm\     | Base class containing common attributes like ID and name |
-| \Animal\   | Inherits from \`Farm\`; adds species and age             |
-| \Crop\     | Inherits from \`Farm\`; adds crop type and harvest time   |
-| \Equipment\| Inherits from \`Farm\`; adds equipment type and condition |
-| \Worker\   | Inherits from \`Farm\`; adds role and salary              |
+| `\Farm\`     | Base class containing common attributes like ID and name |
+| `\Animal\`   | Inherits from \`Farm\`; adds species and age             |
+| `\Crop\`     | Inherits from \`Farm\`; adds crop type and harvest time   |
+| `\Equipment\`| Inherits from \`Farm\`; adds equipment type and condition |
+| `\Worker\`   | Inherits from \`Farm\`; adds role and salary              |
 
 Each subclass implements its own version of the \`display_details()\` method.
 
@@ -64,7 +64,7 @@ This project demonstrates key Python and OOP concepts:
 
 ## 📌 Example Menu
 
-\`\`\`
+```
 Farm Management System
 1. Add a New Record
 2. Display All Records
@@ -73,7 +73,7 @@ Farm Management System
 5. Delete a Record by ID
 6. Sort Records
 7. Exit
-\`\`\`
+```
 
 ---
 
