@@ -36,7 +36,7 @@ Each subclass implements its own version of the `display_details()` method.
 
 ```
 bash
-git clone https://github.com/YOUR_USERNAME/Farm-Management-System.git
+git clone https://github.com/ZiyadAzzaz/Farm-Management-System.git
 cd Farm-Management-System
 ```
 
@@ -46,8 +46,9 @@ Make sure you have Python installed. Then run:
 
 ```
 bash
-python main.py
+python Farm_OOP.py
 ```
+👉 **[View the Full Code Here](https://github.com/ZiyadAzzaz/Farm-Management-System-OOP/blob/main/Final_OOP.py)**
 
 ---
 
@@ -92,4 +93,4 @@ Pull requests and suggestions are welcome! If you have ideas to improve the syst
 ## 📫 Contact
 
 Made with ❤️ by [Ziyad Azzaz]  
-GitHub: [https://github.com/YOUR_USERNAME](https://github.com/ZiyadAzzaz)
+GitHub: [https://github.com/Ziyad Azzaz](https://github.com/ZiyadAzzaz)
