@@ -21,7 +21,7 @@ A **Python-based Farm Management System** that uses **Object-Oriented Programmin
 | Class      | Description                                            |
 |------------|--------------------------------------------------------|
 | `Farm`     | Base class containing common attributes like ID and name |
-| `Animal`   | Inherits from `Farm\`; adds species and age             |
+| `Animal`   | Inherits from `Farm`; adds species and age             |
 | `Crop`     | Inherits from `Farm`; adds crop type and harvest time   |
 | `Equipment`| Inherits from `Farm`; adds equipment type and condition |
 | `Worker`   | Inherits from `Farm`; adds role and salary              |
